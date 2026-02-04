@@ -33,18 +33,21 @@ Docker, Docker Compose, Git, GitHub Actions, Linux
 ## Selected Professional Projects
 
 ### Spatial Rules Validator (QGIS + PostgreSQL/PostGIS)
+
 QGIS plugin that executes spatial and semantic validation rules directly in PostgreSQL/PostGIS and consolidates detected inconsistencies into dedicated GIS layers for visual inspection and correction.  
 Core focus: database-driven validation, scalability and reduction of manual GIS workflows.
 
 Technologies: Python, QGIS API, PostgreSQL, PostGIS, PL/pgSQL
 
 ### Participa Ouvidoria DF
+
 Civic-tech platform for public issue reporting and citizen participation, integrating geolocation, backend APIs and structured data persistence.  
 Designed with a focus on data integrity, spatial context and extensible backend architecture.
 
 Technologies: Backend APIs, PostgreSQL/PostGIS, frontend application, Docker
 
 ### Skill Market Intel
+
 Platform that analyzes job listings to extract and rank the most demanded technical skills for a given role.  
 Emphasis on data ingestion, normalization and analytical pipelines rather than visualization.
 
@@ -68,6 +71,5 @@ These projects focus on experimentation and problem exploration rather than fini
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
-Email: seu.email@dominio.com  
-Curriculum Vitae (PDF): link-aqui
+LinkedIn: https://www.linkedin.com/in/alvarezj
+Email: estevezcodando@gmail.com
