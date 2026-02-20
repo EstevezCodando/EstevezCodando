@@ -1,7 +1,7 @@
 # Jean Estevez
 
 Software Engineer focused on backend systems, data pipelines and geospatial solutions.  
-EU citizen, based in Spain. Available for Backend, Data Engineering and GovTech roles.
+Available for Backend, Data Engineering and GovTech roles.
 
 I design and implement production-oriented software with emphasis on reliability, scalability and clear architecture.  
 My work combines backend development, data processing and spatial systems, with hands-on experience in real-world, non-academic projects.
